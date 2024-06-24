@@ -4,7 +4,7 @@
 <hr>
 Se muestra un menu de opciones que al seleccionarse
 dan la conversion de monedas como: DOLAR, PESO ARGENTINO, REAL BRASILEÑO, PESO COLOMBIANO
+Dando por resultado el siguiente menú.
 <p align="center">
-  <img src="" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+  <img src="https://github.com/evillafa/MonedaConvertEvillafa/blob/evillafa_py/menu.png" width="350" title="hover text">
+  </p>
